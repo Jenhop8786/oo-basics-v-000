@@ -9,15 +9,12 @@ class Shoe
   end
 
   def color
-    @color
   end
 
   def material
-    @material
   end
 
   def condition
-    @condition
   end
-  
+
 end
